@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "f447e355413e9e54",
+    "type": "split",
+    "children": [
+      {
+        "id": "6bbdc72a17891b41",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ec9b1b155975cea",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2e33c697f2837c35",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7b27ad803763864",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf9242edb06fa58a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "be482302e7b78dae",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f2ed8100c0bd0594",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "614f58468810f043",
+    "type": "split",
+    "children": [
+      {
+        "id": "92b9bf829ced479e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28cdde6b75a40a98",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7af1239d1f783f0b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a81831073ff8846b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5bd41f97b5d8f24b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "4c12e5954ed0cd91",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "d809f923da6a6637",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "79bd01278e65a34c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 234.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "markdown-importer:Open format converter": false,
+      "publish:Publish changes": false,
+      "zk-prefixer:Create new unique note": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "9ec9b1b155975cea",
+  "lastOpenFiles": [
+    "202303051606.md",
+    "Personal Hub.md",
+    "Excalidraw/Drawing 2023-03-05 16.03.08.excalidraw.md",
+    "Excalidraw",
+    "Day Planners/Day Planner-20230305.md",
+    "Day Planners",
+    "Untitled.md",
+    "Untitled.canvas",
+    "obsidian-icon-folder-1.6.0/iconPacks/icon-brew/icon-brew/AcademicBook.svg",
+    "obsidian-icon-folder-1.6.0/iconPacks/icon-brew/icon-brew/Activity.svg",
+    "obsidian-icon-folder-1.6.0/iconPacks/icon-brew/icon-brew/Heart.svg",
+    "obsidian-icon-folder-1.6.0/iconPacks/icon-brew/icon-brew/LineWeight.svg",
+    "obsidian-icon-folder-1.6.0/iconPacks/icon-brew/icon-brew/Ribbon.svg",
+    "obsidian-icon-folder-1.6.0/iconPacks/icon-brew/icon-brew/FolderMinus.svg",
+    "obsidian-icon-folder-1.6.0/iconPacks/icon-brew/icon-brew/StackVertical.svg",
+    "obsidian-icon-folder-1.6.0/iconPacks/icon-brew/icon-brew/Macintosh.svg",
+    "obsidian-icon-folder-1.6.0/iconPacks/icon-brew/icon-brew/ArrowDownLeft.svg",
+    "obsidian-icon-folder-1.6.0/iconPacks/icon-brew/icon-brew/Moon.svg",
+    "obsidian-icon-folder-1.6.0/iconPacks/icon-brew/icon-brew",
+    "obsidian-icon-folder-1.6.0/iconPacks/icon-brew",
+    "obsidian-icon-folder-1.6.0/src/settingsTab/recentlyUsedIcons.ts",
+    "obsidian-icon-folder-1.6.0/src/settingsTab/predefinedIconPacks.ts",
+    "obsidian-icon-folder-1.6.0/src/settingsTab/index.ts",
+    "obsidian-icon-folder-1.6.0/src/settingsTab/iconPacksPath.ts",
+    "obsidian-icon-folder-1.6.0/src/settingsTab/iconFontSize.ts",
+    "obsidian-icon-folder-1.6.0/src/settingsTab/iconFolderSetting.ts",
+    "obsidian-icon-folder-1.6.0/README.md",
+    "2023-03-05.md"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "name": "obsidian-icon-folder",
+  "version": "1.6.0",
+  "description": "This plugin allows to add an emoji or an icon to a folder or file.",
+  "main": "main.js",
+  "scripts": {
+    "prepare": "husky install",
+    "precommit": "lint-staged",
+    "dev": "rollup --config rollup.config.js -w",
+    "build": "rollup --config rollup.config.js --environment BUILD:production",
+    "release": "mkdir -p dist && mv main.js dist/ && cp src/styles.css dist/ && cp manifest.json dist/",
+    "lint": "eslint '*/**/*.{js,ts,tsx}' --quiet --fix"
+  },
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FlorianWoelki/obsidian-icon-folder.git"
+  },
+  "author": "Florian Woelki",
+  "license": "MIT",
+  "lint-staged": {
+    "*.{js,ts,tsx}": [
+      "eslint --fix"
+    ]
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^13.2.1",
+    "@commitlint/config-conventional": "^13.2.0",
+    "@rollup/plugin-commonjs": "^18.1.0",
+    "@rollup/plugin-node-resolve": "^11.2.1",
+    "@rollup/plugin-typescript": "^8.5.0",
+    "@types/mkdirp": "^1.0.2",
+    "@types/node": "^14.18.36",
+    "@typescript-eslint/eslint-plugin": "^5.48.0",
+    "@typescript-eslint/parser": "^5.48.0",
+    "eslint": "^8.31.0",
+    "eslint-config-prettier": "^8.6.0",
+    "eslint-plugin-prettier": "^3.4.1",
+    "husky": "^7.0.4",
+    "lint-staged": "^11.2.6",
+    "mkdirp": "^1.0.4",
+    "monkey-around": "^2.3.0",
+    "obsidian": "^0.16.3",
+    "prettier": "^2.8.1",
+    "rollup": "^2.79.1",
+    "tslib": "^2.4.1",
+    "twemoji": "^14.0.2",
+    "typescript": "^4.9.4"
+  },
+  "dependencies": {
+    "@rollup/plugin-babel": "^6.0.3",
+    "jszip": "^3.10.1"
+  }
+}

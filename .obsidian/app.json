@@ -1,0 +1,10 @@
+{
+  "livePreview": true,
+  "spellcheckLanguages": [
+    "en-US",
+    "vi"
+  ],
+  "spellcheck": true,
+  "trashOption": "local",
+  "newFileLocation": "root"
+}
