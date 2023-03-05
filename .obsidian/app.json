@@ -6,5 +6,6 @@
   ],
   "spellcheck": true,
   "trashOption": "local",
-  "newFileLocation": "root"
+  "newFileLocation": "root",
+  "promptDelete": false
 }
